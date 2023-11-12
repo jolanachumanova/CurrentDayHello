@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: debug
+
+greeting:
+  message: ${GREETING_MESSAGE:"Hello user, today is "}
+
+
